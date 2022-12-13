@@ -1,5 +1,5 @@
 ### About the project ###
-1. Chatroom starts server and connects up to 10 clients
+1. Chatroom starts server and connects up to 10 clients simultaneously
 2. The chatroom allows clients to send direct messages with other connected users, broadcast an insult message, query connected users
 3. It contains a template folder with insult grammar, imports a random sentence generator library, which imports gson to parse json files.
 ### How to Run the Program ###
