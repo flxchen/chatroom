@@ -15,9 +15,9 @@
 1. the command includes the command key word, followed by a space, and a message
 2. type ? to show a list of all valid commands.
 3. valid command list
-• ?: list all commands
-• logoff: sends a DISCONNECT_MESSAGE to the chatroom
-• who: sends a QUERY_CONNECTED_USERS to the chatroom
-• @user: sends a DIRECT_MESSAGE to the specified user to the chatroom
-• @all: sends a BROADCAST_MESSAGE to the chatroom, to be sent to all users connected
-• !user: sends a SEND_INSULT message to the chatroom, to be sent to the specified user
++ ?: list all commands
++ logoff: sends a DISCONNECT_MESSAGE to the chatroom
++ who: sends a QUERY_CONNECTED_USERS to the chatroom
++ @user: sends a DIRECT_MESSAGE to the specified user to the chatroom
++ @all: sends a BROADCAST_MESSAGE to the chatroom, to be sent to all users connected
++ !user: sends a SEND_INSULT message to the chatroom, to be sent to the specified user
